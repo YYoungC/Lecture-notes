@@ -12,3 +12,9 @@
 
 WiMAX is WAN
 
+### Lecture 4
+
+gateway: one sender, multiple receiver
+
+lora usually use 433 MHz
+
